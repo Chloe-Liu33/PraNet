@@ -1,0 +1,1 @@
+(Dataset:Locust-mini; Model:PraNet) meanDic:0.822;meanIoU:0.733;wFm:0.800;Sm:0.879;meanEm:0.947;MAE:0.027;maxEm:0.959;maxDice:0.834;maxIoU:0.750;meanSen:0.857;maxSen:1.000;meanSpe:0.954;maxSpe:0.972.

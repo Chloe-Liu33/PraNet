@@ -1,0 +1,1 @@
+(Dataset:Locust-mini; Model:SINet_V2) meanDic:0.677;meanIoU:0.557;wFm:0.639;Sm:0.797;meanEm:0.876;MAE:0.034;maxEm:0.899;maxDice:0.693;maxIoU:0.575;meanSen:0.724;maxSen:1.000;meanSpe:0.958;maxSpe:0.969.

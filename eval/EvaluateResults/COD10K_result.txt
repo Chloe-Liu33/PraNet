@@ -1,0 +1,1 @@
+(Dataset:COD10K; Model:PraNet) meanDic:0.708;meanIoU:0.591;wFm:0.676;Sm:0.812;meanEm:0.901;MAE:0.043;maxEm:0.924;maxDice:0.729;maxIoU:0.616;meanSen:0.723;maxSen:1.000;meanSpe:0.960;maxSpe:0.984.

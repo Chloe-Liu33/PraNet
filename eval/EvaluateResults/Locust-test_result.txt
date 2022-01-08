@@ -1,0 +1,1 @@
+(Dataset:Locust-test; Model:SINet_V2) meanDic:0.835;meanIoU:0.741;wFm:0.809;Sm:0.890;meanEm:0.957;MAE:0.024;maxEm:0.976;maxDice:0.852;maxIoU:0.764;meanSen:0.863;maxSen:1.000;meanSpe:0.971;maxSpe:0.984.
